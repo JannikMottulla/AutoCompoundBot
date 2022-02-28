@@ -4,7 +4,7 @@ from datetime import datetime
 
 
 class AdvancedCompoundingBot:
-    def __init__(self): ^ ^
+    def __init__(self):
     self.timers = {
         "refresh_interval": ""
     }
