@@ -5,9 +5,9 @@ from datetime import datetime
 
 class AdvancedCompoundingBot:
     def __init__(self):
-    self.timers = {
-        "refresh_interval": ""
-    }
+        self.timers = {
+            "refresh_interval": ""
+        }
 
     def compound(self):
         time.sleep(1)
